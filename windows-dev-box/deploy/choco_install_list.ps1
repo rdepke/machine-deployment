@@ -3,6 +3,7 @@ Set-ExecutionPolicy Bypass -Scope Process -Force; iex ((New-Object System.Net.We
 #editors
 choco install notepadplusplus -y
 choco install visualstudiocode -y 
+choco install nano -y
 
 #sourcecode management
 choco install git -y
