@@ -9,6 +9,7 @@ choco install nano -y
 choco install git -y
 choco install git-lfs -y
 choco install gitextensions -y
+choco install gitkraken -y
 #choco install github -y #broken
 choco install sourcetree -y
 choco install tortoisesvn -y
