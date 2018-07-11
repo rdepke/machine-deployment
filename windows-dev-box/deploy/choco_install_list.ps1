@@ -5,6 +5,9 @@ choco install notepadplusplus -y
 choco install visualstudiocode -y 
 choco install nano -y
 
+#console
+choco install poshgit -y
+
 #sourcecode management
 choco install git -y
 choco install git-lfs -y
@@ -34,6 +37,7 @@ choco install nuget.commandline -y
 #choco install nugetpackageexplorer -y #broken
 
 #misc
+choco install openssl.light -y 
 choco install keepass -y
 choco install irfanview -y
 choco install sumatrapdf -y
