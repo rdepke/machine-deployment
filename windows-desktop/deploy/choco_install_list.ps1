@@ -23,3 +23,4 @@ choco install 7zip -y
 choco install treesizefree -y
 choco install thunderbird -y
 choco install libreoffice-fresh -y
+choco install teamspeak -y
