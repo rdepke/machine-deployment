@@ -15,6 +15,12 @@ choco install googlechrome -y
 choco install vagrant -y
 choco install virtualbox -y
 
+#gaming
+choco install steam -y
+choco install goggalaxy -y
+choco install uplay -y
+choco install origin -y
+
 #misc
 choco install keepass -y
 choco install irfanview -y
