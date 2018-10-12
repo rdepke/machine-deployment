@@ -7,6 +7,10 @@ choco install powershell -y
 choco install notepadplusplus -y
 choco install visualstudiocode -y 
 
+#sourcecode management
+choco install git -y
+choco install git-lfs -y
+
 #browser
 choco install firefox -y
 choco install googlechrome -y
@@ -18,6 +22,8 @@ choco install virtualbox -y
 #dev
 choco install golang -y
 setx GOPATH D:\repos\go
+setx PATH=%PATH%;%GOPATH%\bin
+choco install make -y
 
 #gaming
 choco install steam -y
