@@ -17,6 +17,7 @@ choco install virtualbox -y
 
 #dev
 choco install golang -y
+setx GOPATH D:\repos\go
 
 #gaming
 choco install steam -y
