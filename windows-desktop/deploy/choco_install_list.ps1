@@ -15,6 +15,9 @@ choco install googlechrome -y
 choco install vagrant -y
 choco install virtualbox -y
 
+#dev
+choco install golang -y
+
 #gaming
 choco install steam -y
 choco install goggalaxy -y
