@@ -5,7 +5,7 @@ choco install powershell -y
 
 #editors
 choco install notepadplusplus -y
-choco install visualstudiocode -y 
+choco install vscode -y 
 
 #sourcecode management
 choco install git -y
