@@ -13,3 +13,6 @@ Unmanaged:
 - Spotify
 - Github
 - BattleNet
+
+Windows Store:
+- Netflix
