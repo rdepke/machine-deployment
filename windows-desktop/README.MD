@@ -8,6 +8,8 @@
 - disable cortana
 - disable search bar
 - disabel onedrive
+- Set Consolas FONT in VS Code/Notepad++/MinGW
+- Set Sound profile
 
 Unmanaged:
 - Spotify
