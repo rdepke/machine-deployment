@@ -31,3 +31,7 @@ choco install treesizefree -y
 choco install thunderbird -y
 choco install libreoffice-fresh -y
 choco install discord -y
+choco install dropbox -y
+# unmanaged because https://github.com/scowalt/chocolatey-packages/issues/21
+#choco install cryptomator -y
+
