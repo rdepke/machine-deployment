@@ -33,6 +33,7 @@ choco install libreoffice-fresh -y
 choco install discord -y
 choco install dropbox -y
 choco install vlc -y
+choco install logitechgaming -y
 # unmanaged because https://github.com/scowalt/chocolatey-packages/issues/21
 #choco install cryptomator -y
 
