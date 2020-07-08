@@ -20,6 +20,7 @@ choco install steam -y
 choco install goggalaxy -y
 choco install uplay -y
 choco install origin -y
+choco install epicgameslauncher -y
 
 #misc
 choco install signal -y
