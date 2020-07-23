@@ -10,6 +10,8 @@
 - disabel onedrive
 - Set Consolas FONT in VS Code/Notepad++/MinGW
 - Set Sound profile
+- energy settings
+- WSL
 
 Unmanaged:
 - Spotify
